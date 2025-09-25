@@ -80,7 +80,8 @@ int main() {
 # OUTPUT
 
 
-<img width="1473" height="754" alt="Screenshot 2025-09-19 153057" src="https://github.com/user-attachments/assets/b011a260-9e14-4885-9513-970c178ef059" />
+![WhatsApp Image 2025-09-19 at 16 00 42_7a0b6059](https://github.com/user-attachments/assets/a7ea47b4-b090-450d-83b5-fe583944c147)
+
 
 
 # RESULT
